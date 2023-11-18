@@ -32,7 +32,7 @@ Welcome to WeatherVista, a cutting-edge and user-friendly weather prediction app
 
 ## License
 
-WeatherVista is licensed under the [MIT License](LICENSE). Feel free to customize and use it in your projects.
+WeatherVista is licensed under the [MIT License](LICENSE.md). Feel free to customize and use it in your projects.
 
 ## Author
 
@@ -44,7 +44,7 @@ Contributions are welcome! Please check our [Contribution Guidelines](CONTRIBUTI
 
 ## Support
 
-If you encounter any issues or have suggestions, [open an issue](https://github.com/your-username/WeatherVista/issues).
+If you encounter any issues or have suggestions, [open an issue](https://github.com/wasimtikki120/WeatherVista/issues).
 
 ## About
 
