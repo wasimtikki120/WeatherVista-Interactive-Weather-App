@@ -1,7 +1,5 @@
 # WeatherVista - Interactive Weather App
 
-![WeatherVista Logo](link-to-your-logo-or-app-image)
-
 ## Overview
 
 Welcome to WeatherVista, a cutting-edge and user-friendly weather prediction app. WeatherVista not only provides accurate weather forecasts but also offers an engaging and intuitive user experience.
