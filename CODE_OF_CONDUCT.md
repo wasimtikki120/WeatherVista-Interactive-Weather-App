@@ -32,9 +32,6 @@ Unacceptable behaviors include, but are not limited to:
 
 Unacceptable behavior will not be tolerated within the WeatherVista community. Anyone engaging in unacceptable behavior may be asked to stop, warned, or expelled from the community at the discretion of the project maintainers.
 
-## Reporting Guidelines
-
-If you witness or experience behavior that violates this Code of Conduct, please contact the project maintainers at [maintainers-email@example.com]. All reports will be kept confidential.
 
 ## Scope
 
