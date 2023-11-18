@@ -44,7 +44,7 @@ Contributions are welcome! Please check our [Contribution Guidelines](CONTRIBUTI
 
 ## Support
 
-If you encounter any issues or have suggestions, [open an issue](https://github.com/wasimtikki120/WeatherVista/issues).
+If you encounter any issues or have suggestions, [open an issue](https://github.com/wasimtikki120/WeatherVista-Interactive-Weather-App/issues).
 
 ## About
 
