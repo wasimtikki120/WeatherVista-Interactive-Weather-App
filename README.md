@@ -14,9 +14,9 @@ Welcome to WeatherVista, a cutting-edge and user-friendly weather prediction app
 
 ## Screenshots
 
-![WeatherVista Screenshot 1](http://github.clicksocialimg.top/x6awhdkr)
-![WeatherVista Screenshot 2](link-to-screenshot-2)
-![WeatherVista Screenshot 3](link-to-screenshot-3)
+![WeatherVista Screenshot 1](images/WeatherVista - Interactive Weather App 1.png)
+![WeatherVista Screenshot 2](images/WeatherVista - Interactive Weather App 2.png)
+![WeatherVista Screenshot 3](images/WeatherVista - Interactive Weather App 3.png)
 
 ## Getting Started
 
