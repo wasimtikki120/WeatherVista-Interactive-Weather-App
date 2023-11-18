@@ -20,7 +20,7 @@ Welcome to WeatherVista, a cutting-edge and user-friendly weather prediction app
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/your-username/WeatherVista.git`
+1. Clone the repository: `git clone https://github.com/wasimtikki120/WeatherVista-Interactive-Weather-App.git`
 2. Open `index.html` in your preferred browser to launch the app.
 
 ## Usage
